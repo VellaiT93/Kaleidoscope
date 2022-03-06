@@ -1,2 +1,2 @@
 # kaleidoscope
-Kaleidoscope with JS
+Kaleidoscope with vanilla JS

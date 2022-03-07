@@ -1,5 +1,6 @@
 # kaleidoscope
 Kaleidoscope with vanilla JS
+
 Mirrored colors changing on hitting enter.
 
 
